@@ -1,0 +1,16 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to handle communication with backends that don't support Cross Origin requests.",
+  "main": "proxy.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "facundoj",
+  "license": "ISC"
+}
